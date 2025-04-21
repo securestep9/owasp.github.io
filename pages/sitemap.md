@@ -35,7 +35,6 @@ permalink: /sitemap/
   <li><a href="/events/#regionalevents">Regional Events</a></li>
   <li><a href="/events/#globalpartnerevents">Global Partner Events</a></li>
   <li><a href="/corporate-sponsorships">Become a Corporate Event Sponsor</a></li>
-    <li><a href="https://dc.globalappsec.org" target="_blank">Global AppSec DC 2023</a></li>
 </ul> 
 
 <ul>
@@ -64,9 +63,7 @@ permalink: /sitemap/
   <li><a href="/www-project-mobile-app-security/">Mobile Application Security (MAS)</a></li>
   <li><a href="/www-project-modsecurity-core-rule-set/">ModSecurity Core Rule Set</a></li>
   <li><a href="/www-project-samm/">Software Assurance Maturity Model (SAMM)</a></li>
-  <li><a href="/www-project-security-knowledge-framework/">Security Knowledge Framework</a></li>
   <li><a href="/www-project-web-security-testing-guide/">Web Security Testing Guide</a></li>
-  <li><a href="/www-project-zap/">Zed Attack Proxy</a></li>
   <li><a href="/projects/">Browse All Projects</a></li>
 </ul>
 

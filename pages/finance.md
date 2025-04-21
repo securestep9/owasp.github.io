@@ -19,6 +19,7 @@ You can support our mission by [becoming a member](https://owasp.org/membership/
 
 ## Annual Budgets
 
+- [2023](/www-staff/budget/2023){:target='_blank'}
 - [2022](/www-staff/budget/2022){:target='_blank'}
 - [2021](/www-staff/budget/2021){:target='_blank'}
 - [2020 COVID-19 Response](/www-staff/budget/2020-modelz){:target='_blank'}
@@ -32,13 +33,15 @@ As a US-based 501(c)3 registered non-profit charity, donations to the OWASP Foun
 
 - [IRS 501(c)3 Determination Letter](/assets/legal/OWASP_IRS501c3DeterminationLetter.pdf){:target='_blank'}
 - [New York State Exempt Certificate](/assets/legal/NY_Exempt_Organization_Certificate.pdf){:target='_blank'}
-- [2019 W-9](/assets/legal/2019_W9.pdf){:target='_blank'}
-- [2020 W-9](/assets/financial/2020-Form-W-9.pdf){:target='_blank'}
+- [OWASP W-9 2023](/assets/financial/2023-Form-W-9.pdf){:target='_blank'}
 
 ## Tax Returns (Form 990)
 
 The OWASP Foundation is a registered 501(c)(3) non-profit organization. Our fiscal year runs January through December. We post our 990 as soon as we can each year.
 
+- [2023](/assets/financial-taxreturns/2023_Form_990.pdf){:target='_blank'}
+- [2022](/assets/financial-taxreturns/2022_Form_990.pdf){:target='_blank'}
+- [2021](/assets/financial-taxreturns/2021_Form_990.pdf){:target='_blank'}
 - [2020](/assets/financial-taxreturns/2020_Form_990.pdf){:target='_blank'}
 - [2019](/assets/financial-taxreturns/2019_Form_990.pdf){:target='_blank'}
 - [2018](/assets/financial-taxreturns/2018_Form_990.pdf){:target='_blank'}
@@ -56,18 +59,19 @@ The OWASP Foundation is a registered 501(c)(3) non-profit organization. Our fisc
 
 ## Audited Financial Statements
 
-The OWASP Foundation has an external audit of our financials every three years. We are proud that the external auditor's CPAs during their work on the 2019 Audit found no material internal control issues with the Foundation. The next audit year is 2022.
+The OWASP Foundation has an external audit of our financials every year, starting with the 2022 financial year. The next audit year is 2023.
 
+- [2022](/assets/financial-audits/OWASP_Audit_Report_2022.pdf){:target='_blank'}
 - [2019](/assets/financial-audits/OWASP_Audit_Report_2019.pdf){:target='_blank'}
 - [2016](/assets/financial-audits/OWASP_Audit_Report_2016.pdf){:target='_blank'}
 - [2013](/assets/financial-audits/OWASP_Audit_Report_2013.pdf){:target='_blank'}
 - [2010](/assets/financial-audits/OWASP_Audit_Report_2010.pdf){:target='_blank'}
 - [2007](/assets/financial-audits/OWASP_Audit_Report_2007.pdf){:target='_blank'}
 
-## Chapter & Project Resources
+## Chapter & Project Expenses
 
-Whilst they exist, chapter and Project balances can be found in each month's financial package on the historical Board minutes. The current plan is to abolish these balances to allow all chapters, all projects, and all events to expense per an overall expense category, determined annually by the Global Board of Directors, and topped up with donations, memberships, grants, and sponsorships.
+OWASP Leaders are permitted to make expense claims on behalf of their chapters, projects, or events. Expenses under $250 do not need to be pre-approved, but must always comply with the [OWASP Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement). Expenses over $250 need dual leader approval and in some cases, pre-approval from the OWASP Foundation prior to incurring the charge.
 
-- [Request Reimbursments](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/9){:target='_blank'} for OWASP Expenses
-- General [Service Desk](https://owasporg.atlassian.net/servicedesk/customer/portals){:target='_blank'} (JIRA) for ticketing
+- [Request Reimbursements](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/9){:target='_blank'} for OWASP Expenses
+- [Service Desk](https://owasporg.atlassian.net/servicedesk/customer/portals){:target='_blank'} (JIRA) for support requests
 - [Submit Invoices](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/12){:target='_blank'} for Chapter and Project expenses

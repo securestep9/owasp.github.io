@@ -1,8 +1,7 @@
-[![OWASP 2023 Global AppSec DC](/assets/images/AppSec_DC_2023_Banner_1200x300_V01.jpeg){:width="100%" height="auto"}](https://dc.globalappsec.org/)
+[![Global AppSec EU](/assets/images/events/2025-eu-header.png){:width="100%" height="auto"}](https://owasp.glueup.com/event/123983/register/)
 
-### Registration Open!
+## Get ready for an unforgettable experience at the OWASP Global AppSec EU Conference!
 
-[Join us](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847) in Washington DC, USA Oct 30 - Nov 3, for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.
+From May 26-30, 2025, [join over 700 cybersecurity experts](https://barcelona.globalappsec.org) at the spectacular Centre de Convencions Internacional de Barcelona (CCIB) for an event like no other. This year's reimagined conference promises to ignite your passion for security with cutting-edge presentations from world-class keynote speakers. Dive into one of six action-packed tracks covering everything from OWASP projects to specialized sessions for builders, developers, breakers, defenders, and manager/culture.
 
-Designed for private and public sector infosec professionals, the two-day OWASP conference followed by three days of training equips developers, defenders, and advocates to build a more secure web. Join us for leading application security technologies, speakers, prospects, and the community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.
-
+[Register today and take advantage of early bird pricing!](https://owasp.glueup.com/event/123983/register/)

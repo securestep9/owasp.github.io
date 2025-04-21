@@ -8,23 +8,15 @@ tags: corp-supporter
 
 ---
 
-### Packages available to all
-
-Our updated Corporate Supporter packages are available to anyone, with price points for everyone. 
+### Corporate Supporter package descriptions
 
 ### Corporate Supporter Logo
 
 Corporate Supporters can use our new Corporate Supporter logos on your website and marketing to demonstrate their support for OWASP. 
 
-### Corporate Sponsorship of participating Projects or Chapters
+### Support OWASP Chapters or Projects
 
-Corporate Supporters can contribute 10% of their Corporate Supporter fee to participating chapters or projects. OWASP will add this contribution to the Expenses pool with no administrative fee to benefit all Chapters and Projects. In return, participating Chapters or Projects may add your logo to their home page and are encouraged to recognize your contribution at the start of meetings or in the project's deliverable, where possible.
-
-- Platinum 10 projects or chapters
-- Gold 5 projects or chapters
-- Silver 1 project or chapter
-
-NB: Not all chapters or projects participate in this benefit. Please get in touch with us to connect you with the relevant Chapter or Project Leader.
+Corporate Supporters have the option to allocate 10% of their dues to support either OWASP Chapters or Projects. While you may select a specific chapter or project, the funds will ultimately contribute to advancing OWASP's overall mission. OWASP will add this contribution to the expenses pool with no administrative fee to benefit our Chapters or Projects. In return, participating Chapters or Projects may add your logo to their home page and are encouraged to recognize your contribution at the start of meetings or in the project's deliverable, where possible.
 
 ### Corporate Sponsorship of participating AppSec Days events
 
@@ -34,7 +26,7 @@ NB: Not all AppSec Day regional events participate in this benefit. Please conta
 
 ### Early bird Global AppSec registrations
 
-Many employers provide training and conferences as an employment benefit. Your staff can use the included Early Bird Global AppSec Registration discount codes. The discount code grants them access to the OWASP Member discount, even if they are not individual OWASP members. This benefit does not stack if they are individual members. Discounts do not apply to training. 
+Many employers offer conferences as an employment benefit. Your staff can take advantage of an Early Bird Global AppSec Registration discount code to save on a full conference pass. This code provides access to the OWASP Member discount, even for non-members. However, this benefit does not stack with an individual membership discount, and it does not apply to training sessions.
 
 | Package  | Global AppSec H1  | Global AppSec H2  |
 | -------- | :---------------: | :---------------: |
@@ -42,7 +34,7 @@ Many employers provide training and conferences as an employment benefit. Your s
 | Gold     | 5 discount codes  | 5 discount codes  |
 | Silver | 1 discount code   | 1 discount code   |
 
-OWASP will send through your discount code entitlements for each event as registrations are first opened to ensure your staff doesn't miss out. The discount codes are only valid for the relevant Global AppSec within the early bird registration period and are not transferrable to another event.
+Please [Contact Us](mailto:kelly.santalucia@owasp.com) for your discount code entitlements for each event to ensure your staff doesn't miss out. The discount codes are only valid for the relevant Global AppSec registration period and are not transferrable to another event.
 
 * Global AppSec H1 is usually held in Europe in the first half of the year
 * Global AppSec H2 is usually held in North America in the second half of the year
@@ -51,9 +43,9 @@ OWASP will send through your discount code entitlements for each event as regist
 
 Corporate Supporters get their logo and a descriptive blurb on the OWASP.org website, which appear on our [supporters page](/supporters/list) and randomly at the bottom of every page on owasp.org. 
 
-- Platinum Large size
-- Gold Medium size
-- Silver Standard size
+- Platinum Large size (300px)
+- Gold Medium size (250px)
+- Silver Standard size (150px)
 
 We will work with you to obtain a transparent icon of 300px X 90px at 72dpi. Our website automatically sizes your icon per the Corporate Supporter level.
 
@@ -63,15 +55,15 @@ Our updated Corporate Supporter program implements improved rotation for Platinu
 
 ### Social Media Recognition
 
-Your company will be recognized for supporting the OWASP Foundation as a Corporate Supporter on the OWASP social media platforms.
+Your company will be recognized for supporting the OWASP Foundation as a Corporate Supporter on the OWASP social media platforms. Platinum Corporate Supporters will receive one social post, provided by OWASP once per quarter. Gold Corporate Supporters will receive one social post, provided by OWASP twice a year. Silver and Start-Up Corporate Supporters will receive one social post, provided by OWASP.
 
 ### Early access to Global AppSec Exhibitor/Sponsorship Packages
 
-Global AppSec Event Sponsorships are usually entirely sold out very quickly. You might miss out on your preferred location or desired package. The Platinum Corporate Supporter benefit gives early access to the best packages, prime locations, and the best-sized booths!
+Global AppSec Event Sponsorships are usually entirely sold out very quickly. You might miss out on your preferred location or desired package. The Platinum Corporate Supporter benefit gives early access to the best packages, prime locations, and the best-sized booths, with the most benefits!
 
 ### Global AppSec Corporate Event Exhibitor/Sponsorship Subsidy
 
-Up to USD 2,500 of your Corporate Supporter fee can be applied towards a Global AppSec exhibitor/sponsorship package.
+Up to USD 2,500 of your Corporate Supporter fee can be applied towards a Global AppSec exhibitor package.
 
 | Package | Standard | Regional | Startup |
 | -- | :--: | :--: | :--: |
@@ -79,6 +71,17 @@ Up to USD 2,500 of your Corporate Supporter fee can be applied towards a Global 
 | Gold | 1,500 | 600 |  
 | Silver | 500 | 200 | 200 | 
 
-### Ambassador for OWASP Board of Directors election vote
+### Option to provide an OWASP Individual Member benefit (must meet OWASP approval)
 
-Corporate Supporters can nominate an Individual Corporate Ambassador to exercise a vote in the Global Board of Directors election.
+Available for Platinum and Gold Corporate Supporters. 
+Provide OWASP members with an individual member benefit, such as an easy-to-use developer-first encryption-as-code platform or hands-on application security training. Contact us for more details. 
+
+### Job Posting Board
+
+Available for Platinum and Gold Corporate Supporters. 
+Company logo and URL to your hiring page are displayed on OWASP's Job Posting web page.
+
+### Optional Recorded Session with OWASP's Executive Director
+
+Platinum Corporate Supporters will have a scheduled 10–15-minute recorded session with OWASP's Executive Director to share why they support OWASP and how being part of the organization benefits their company. Each recording will be featured on the OWASP.org homepage for one month.
+

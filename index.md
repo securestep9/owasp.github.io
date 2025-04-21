@@ -7,13 +7,15 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
 spnews: False
 
 ---
+<!-- Mastodon verification -->
+<link rel="me" href="https://infosec.exchange/@owasp">
 
 <!-- Discoverable Feeds -->
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}"/>
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/rss.xml" | prepend: site.baseurl | prepend: site.url }}">
 
-<!-- Rebuild Site Tag 189 -->
+<!-- Rebuild Site Tag 194 -->
 
 <div class="homepage-promo" style='background: url(/assets/images/content/ams-preso-new.jpg) no-repeat center center;background-size: cover;'>
   <!--<img src="/assets/images/content/ams-preso-new.jpg" alt="Presentation at Global AppSec AMS">-->
@@ -30,14 +32,10 @@ spnews: False
 {% include specialnews.md %}
 {% endif %}
 
-<div style="display:grid;grid-column: 1/3; background-color:#fff;">
-  {% include flagships.html %}
-</div>
-
 <hr class="mobile">
 
 <div style="display:grid;grid-column: 1/3; background-color:#fff;">
-  {% include featured_events.html %}
+  {% include featured_events.html %}  
 </div>
 
 <hr>
@@ -49,8 +47,16 @@ spnews: False
 <p>{{ site.posts.first.excerpt }}<a href="{{ site.posts.first.url }}">...read more</a></p>
 </section>
 
+<div style="display:grid;grid-column: 1/3; background-color:#fff;">
+ {% include upcoming_owasp.html %}
+</div>
+
+<div style="display:grid;grid-column: 1/3; background-color:#fff;">
+  {% include flagships.html %}
+</div>
+
 <hr class="mobile">
 
 {% include news-events.html %}
 
-
+<hr class="mobile">
